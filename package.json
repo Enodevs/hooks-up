@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "Supadevs",
   "license": "ISC",
-  "description": "This is an open-source package containing hooks for react and nextjs"
+  "description": "This is an open-source package containing hooks for react and nextjs",
+  "dependencies": {
+    "react": "^19.0.0"
+  }
 }
